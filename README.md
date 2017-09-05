@@ -1,7 +1,8 @@
 
 # Kĩ năng bắt buộc cho VinaAS Beginner 
-## Sử dụng Markdown để ghi chú, report 
-### Lưu ý 
+
+## I. Sử dụng Markdown để ghi chú, report 
+### Khuyến khích 
 
 - hình ảnh minh hoạ trong 1 thư mục, ví dụ `screenshot` 
    - hình ảnh này sẽ được lưu trữ github (hoặc gitlab)
@@ -16,8 +17,8 @@
 - chia files report thành cấu trúc rõ ràng
    - cho phép đánh chỉ mục sau này ,sử dụng `markdown toc`
 
-## Sử dụng git
-### quản  lý công việc của bản  thân
+## II. Sử dụng git
+### Quản lý công việc của bản  thân
 - sử dụng `commit` để kiểm soát thay đổi
 - tổ chức công việc theo `commit`, hoặc `branch` với các việc độc lập 
 - sử dụng `git history` để review lại công việc đã thực hiện 
@@ -33,7 +34,10 @@
 - comment, trao đổi để nhờ giải thích chi tiết hơn.
   - trên từng commit link hoặc trên từng dòng thay đổi 
 
-### Kết hợp với VS Code
+## III. Kết hợp với VS Code
+
+### Ưu điểm 
+
 - hỗ trợ viết nhanh so với trên browser, viết thẳng trên github, gitlab
 - Cho phép `Preview` file .md nhanh chóng 
 - tích hợp Terminal trực tiếp vào VS Code, shortcut `Ctrl + `` 
@@ -41,7 +45,8 @@
    - git clone, commit, push, pull, ..., xem hình 
    ![vsCode Tips](/screenshot/vscode-tips.png)
 
-#### Sử dụng GitLen, Git History
+
+### Sử dụng GitLen, Git History
 > Cập nhật sau 
 
 
