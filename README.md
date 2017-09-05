@@ -24,6 +24,9 @@
    - git clone, commit, push, pull, ..., xem hình 
    ![vsCode Tips](/screenshot/vscode-tips.png)
 
+#### Sử dụng GitLen, Git History
+> Cập nhật sau 
+
 
 
 
